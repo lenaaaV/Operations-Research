@@ -1,0 +1,9 @@
+\babel@toc {german}{}\relax 
+\contentsline {section}{\numberline {1}Einführung}{2}{}%
+\contentsline {section}{\numberline {2}Kapitel 1}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Session 1 und 2: Was sind Optimierungsmodelle und wofür kann man sie einsetzen?}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Session 3: Graphisches Lösen eines Optimierungsmodells}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Session 4: Abstrakte Optimierungsmodelle}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Session 5: Summenzeichen und All-Quantoren in Optimierungsmodellen}{4}{}%
+\contentsline {subsection}{\numberline {2.5}Session 6: Ganzzahligkeit}{4}{}%
+\contentsline {subsection}{\numberline {2.6}Session 7: Big-M Bedingungen}{5}{}%
